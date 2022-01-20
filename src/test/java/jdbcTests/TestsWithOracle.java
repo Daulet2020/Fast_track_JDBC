@@ -14,6 +14,7 @@ public class TestsWithOracle {
 
     Connection connection;
     Statement statement;
+
     ResultSet resultSet;
     @BeforeMethod
     public void setUp() throws SQLException {
